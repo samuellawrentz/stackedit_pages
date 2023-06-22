@@ -5,7 +5,9 @@
 
 <h1 id="simple-future-tense-seminar">Simple Future Tense Seminar</h1>
 <h2 id="introduction">Introduction</h2>
-<p>Welcome to our seminar on the Simple Future Tense! Today, we’ll learn how to talk about future actions and events in a simple way.</p>
+<p>Hi Everyone! Good Morning. I’m excited to take this seminar.  As we know, there are many tenses - the basic tenses are present tense, past tense and future tense. Do you remember other tenses?</p>
+<p><em>*wait for someone to answer*</em></p>
+<p>Thanks! That is great… Today, we are going to see about Simple Future Tense, it can also be called as Future tense <em>(without simple)</em>. We’ll learn how to talk about future actions and events in a simple way.</p>
 <h2 id="definition-and-form">Definition and Form</h2>
 <p>The Simple Future Tense is used to talk about things that will happen in the future. It’s formed by using “will” + the base form of the verb.</p>
 <h2 id="usage">Usage</h2>
