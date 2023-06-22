@@ -28,4 +28,7 @@ Complete the following sentences:
 
 ## Conclusion
 By using "will" + the base form of the verb, we can confidently express future actions and events.
-I thank our English ma'am fir giving me this opportunity and all my friends for paying attention. Hope I have helped you guys to understand Simple Future Tense. Just use "will" in front of the verb and you get a simple future scentence. Once again thank you..!
+
+I thank our English ma'am for giving me this opportunity and all my friends for paying attention. Hope I have helped you guys to understand Simple Future Tense. 
+
+Just use "will" in front of the verb and you get a simple future scentence. Once again thank you..!
