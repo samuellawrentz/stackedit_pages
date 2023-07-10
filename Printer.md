@@ -11,7 +11,7 @@
 </ul>
 <h2 id="laser-printers">Laser Printers:</h2>
 <ul>
-<li>Laser printers employ technology similar to photocopiers.</li>
+<li>Laser printers employ technology similar to photocopiers (Xerox machine).</li>
 <li>They use laser light to scan front and back across a drum, creating a pattern.</li>
 <li>Laser printers can produce high-quality graphic images.</li>
 <li>Their resolution, measured in Dots Per Inch (DPI).</li>
