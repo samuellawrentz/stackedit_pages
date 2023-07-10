@@ -20,8 +20,6 @@
 <li>These keys are collectively known as character keys.</li>
 <li>The keyboard layout is derived from the typewriter keyboard.</li>
 <li>You can input data and instructions to the computer by typing on the keyboard.</li>
-<li>It has alphabet and numeric keys, as well as function keys for different functions.</li>
-<li>There are different sets of keys on the keyboard. For Eg, character keys, modifier keys, system keys, arrow keys, function keys, numeric keys, and lock keys.</li>
 </ul>
 <h2 id="mouse">Mouse</h2>
 <ul>
